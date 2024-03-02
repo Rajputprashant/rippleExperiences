@@ -1,7 +1,8 @@
 $white: #ffffff;
+$yellow: #ffde59;
 $black: #000000;
-$primary1: #004445;
-$primary2: #2c7873;
+$primary1: #92d0f9;
+$primary2: #7bcaff;
 $textCol: #1f1f1f;
 
 @mixin main-font {
@@ -168,7 +169,7 @@ a:focus {
 
         i {
           margin-right: 5px;
-          background-color: #159ec0;
+          background-color: #92d0f9;
           width: 35px;
           height: 35px;
           display: flex;
@@ -194,7 +195,7 @@ a:focus {
       a {
         i {
           margin-right: 5px;
-          background-color: #159ec0;
+          background-color: #92d0f9;
           width: 28px;
           height: 28px;
           display: flex;
@@ -393,7 +394,7 @@ a:focus {
     h1 {
       font-weight: 600;
       margin-bottom: 15px;
-      color: $white;
+      color: $yellow;
     }
 
 
